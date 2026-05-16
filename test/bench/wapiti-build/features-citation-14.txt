@@ -1,0 +1,14 @@
+CoRR corr C Co CoR CoRR R RR oRR CoRR LINESTART INITCAP NODIGIT 0 0 0 1 0 0 NOPUNCT 0
+; ; ; ; ; ; ; ; ; ; LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 PUNCT 0
+Vinyals vinyals V Vi Vin Viny s ls als yals LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+& & & & & & & & & & LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 NOPUNCT 0
+Kaiser kaiser K Ka Kai Kais r er ser iser LINEIN INITCAP NODIGIT 0 0 1 1 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Koo koo K Ko Koo Koo o oo Koo Koo LINEIN INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Petrov petrov P Pe Pet Petr v ov rov trov LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Sutskever sutskever S Su Sut Suts r er ver ever LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+and and a an and and d nd and and LINEIN NOCAPS NODIGIT 0 1 0 0 0 0 NOPUNCT 0
+Hinton hinton H Hi Hin Hint n on ton nton LINEEND INITCAP NODIGIT 0 0 0 1 0 0 NOPUNCT 0

@@ -1,0 +1,5 @@
+Ashish ashish A As Ash Ashi h sh ish hish LINESTART INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT 0
+Vaswani vaswani V Va Vas Vasw i ni ani wani LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+* * * * * * * * * * LINEEND ALLCAP NODIGIT 1 0 0 0 0 0 NOPUNCT 0
+Google google G Go Goo Goog e le gle ogle LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Brain brain B Br Bra Brai n in ain rain LINEEND INITCAP NODIGIT 0 1 1 0 0 0 NOPUNCT 0

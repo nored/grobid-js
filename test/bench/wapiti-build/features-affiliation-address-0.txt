@@ -1,0 +1,32 @@
+University university U Un Uni Univ y ty ity sity LINESTART INITCAP NODIGIT 0 0 1 0 1 0 NOPUNCT Xxxx <affiliation>
+of of o of of of f of of of LINEIN NOCAPS NODIGIT 0 0 1 0 1 0 NOPUNCT xx <affiliation>
+Toronto toronto T To Tor Toro o to nto onto LINEEND INITCAP NODIGIT 0 0 0 0 1 0 NOPUNCT Xxxx <affiliation>
+
+ 
+‡ ‡ ‡ ‡ ‡ ‡ ‡ ‡ ‡ ‡ LINESTART ALLCAPS NODIGIT 1 0 0 0 0 0 NOPUNCT ‡ <affiliation>
+Work work W Wo Wor Work k rk ork Work LINEIN INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT Xxxx <affiliation>
+performed performed p pe per perf d ed med rmed LINEIN NOCAPS NODIGIT 0 0 1 0 0 0 NOPUNCT xxxx <affiliation>
+while while w wh whi whil e le ile hile LINEIN NOCAPS NODIGIT 0 0 1 0 0 0 NOPUNCT xxxx <affiliation>
+at at a at at at t at at at LINEIN NOCAPS NODIGIT 0 0 1 0 0 0 NOPUNCT xx <affiliation>
+Google google G Go Goo Goog e le gle ogle LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT Xxxx <affiliation>
+Research research R Re Res Rese h ch rch arch LINEIN INITCAP NODIGIT 0 1 1 0 1 0 NOPUNCT Xxxx <affiliation>
+. . . . . . . . . . LINEEND ALLCAPS NODIGIT 1 0 0 0 0 0 DOT . <affiliation>
+31st 31st 3 31 31s 31st t st 1st 31st LINESTART NOCAPS CONTAINDIGIT 0 0 0 0 0 0 NOPUNCT ddxxx <affiliation>
+Conference conference C Co Con Conf e ce nce ence LINEIN INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT Xxxx <affiliation>
+on on o on on on n on on on LINEIN NOCAPS NODIGIT 0 0 1 0 1 0 NOPUNCT xx <affiliation>
+Neural neural N Ne Neu Neur l al ral ural LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT Xxxx <affiliation>
+Information information I In Inf Info n on ion tion LINEIN INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT Xxxx <affiliation>
+Processing processing P Pr Pro Proc g ng ing sing LINEIN INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT Xxxx <affiliation>
+Systems systems S Sy Sys Syst s ms ems tems LINEIN INITCAP NODIGIT 0 1 1 0 0 0 NOPUNCT Xxxx <affiliation>
+( ( ( ( ( ( ( ( ( ( LINEIN ALLCAPS NODIGIT 1 0 0 0 0 0 OPENBRACKET ( <affiliation>
+NIPS nips N NI NIP NIPS S PS IPS NIPS LINEIN ALLCAPS NODIGIT 0 0 1 0 0 0 NOPUNCT XXXX <affiliation>
+2017 2017 2 20 201 2017 7 17 017 2017 LINEIN NOCAPS ALLDIGIT 0 0 0 0 0 0 NOPUNCT dddd <affiliation>
+) ) ) ) ) ) ) ) ) ) LINEIN ALLCAPS NODIGIT 1 0 0 0 0 0 ENDBRACKET ) <affiliation>
+, , , , , , , , , , LINEIN ALLCAPS NODIGIT 1 0 0 0 0 0 COMMA , <affiliation>
+Long long L Lo Lon Long g ng ong Long LINEIN INITCAP NODIGIT 0 1 1 0 1 0 NOPUNCT Xxxx <affiliation>
+Beach beach B Be Bea Beac h ch ach each LINEIN INITCAP NODIGIT 0 1 1 0 1 0 NOPUNCT Xxxx <affiliation>
+, , , , , , , , , , LINEIN ALLCAPS NODIGIT 1 0 0 0 0 0 COMMA , <affiliation>
+CA ca C CA CA CA A CA CA CA LINEIN ALLCAPS NODIGIT 0 0 0 0 1 0 NOPUNCT XX <affiliation>
+, , , , , , , , , , LINEIN ALLCAPS NODIGIT 1 0 0 0 0 0 COMMA , <affiliation>
+USA usa U US USA USA A SA USA USA LINEIN ALLCAPS NODIGIT 0 0 0 0 1 1 NOPUNCT XXX <affiliation>
+. . . . . . . . . . LINEEND ALLCAPS NODIGIT 1 0 0 0 0 0 DOT . <affiliation>

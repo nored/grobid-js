@@ -1,0 +1,5 @@
+Łukasz łukasz Ł Łu Łuk Łuka z sz asz kasz LINESTART INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Kaiser kaiser K Ka Kai Kais r er ser iser LINEIN INITCAP NODIGIT 0 0 1 1 0 0 NOPUNCT 0
+* * * * * * * * * * LINEEND ALLCAP NODIGIT 1 0 0 0 0 0 NOPUNCT 0
+Google google G Go Goo Goog e le gle ogle LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Brain brain B Br Bra Brai n in ain rain LINEEND INITCAP NODIGIT 0 1 1 0 0 0 NOPUNCT 0

@@ -1,0 +1,14 @@
+Chris chris C Ch Chr Chri s is ris hris LINESTART INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT 0
+Dyer dyer D Dy Dye Dyer r er yer Dyer LINEIN INITCAP NODIGIT 0 0 0 1 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Adhiguna adhiguna A Ad Adh Adhi a na una guna LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Kuncoro kuncoro K Ku Kun Kunc o ro oro coro LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Miguel miguel M Mi Mig Migu l el uel guel LINEIN INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT 0
+Ballesteros ballesteros B Ba Bal Ball s os ros eros LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+and and a an and and d nd and and LINEIN NOCAPS NODIGIT 0 1 0 0 0 0 NOPUNCT 0
+Noah noah N No Noa Noah h ah oah Noah LINEIN INITCAP NODIGIT 0 0 1 1 0 0 NOPUNCT 0
+A a A A A A A A A A LINEIN ALLCAP NODIGIT 1 1 0 0 0 0 NOPUNCT 0
+. . . . . . . . . . LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 DOT 0
+Smith smith S Sm Smi Smit h th ith mith LINEEND INITCAP NODIGIT 0 1 1 1 0 0 NOPUNCT 0

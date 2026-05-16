@@ -1,0 +1,15 @@
+Muhua muhua M Mu Muh Muhu a ua hua uhua LINESTART INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Zhu zhu Z Zh Zhu Zhu u hu Zhu Zhu LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Yue yue Y Yu Yue Yue e ue Yue Yue LINEIN INITCAP NODIGIT 0 0 0 1 0 0 NOPUNCT 0
+Zhang zhang Z Zh Zha Zhan g ng ang hang LINEIN INITCAP NODIGIT 0 0 0 1 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Wenliang wenliang W We Wen Wenl g ng ang iang LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Chen chen C Ch Che Chen n en hen Chen LINEIN INITCAP NODIGIT 0 0 1 1 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Min min M Mi Min Min n in Min Min LINEIN INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT 0
+Zhang zhang Z Zh Zha Zhan g ng ang hang LINEIN INITCAP NODIGIT 0 0 0 1 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+and and a an and and d nd and and LINEIN NOCAPS NODIGIT 0 1 0 0 0 0 NOPUNCT 0
+Jingbo jingbo J Ji Jin Jing o bo gbo ngbo LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Zhu zhu Z Zh Zhu Zhu u hu Zhu Zhu LINEEND INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0

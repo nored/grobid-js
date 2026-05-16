@@ -1,0 +1,6 @@
+Aidan aidan A Ai Aid Aida n an dan idan LINESTART INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT 0
+N n N N N N N N N N LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 NOPUNCT 0
+. . . . . . . . . . LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 DOT 0
+Gomez gomez G Go Gom Gome z ez mez omez LINEIN INITCAP NODIGIT 0 0 0 1 0 0 NOPUNCT 0
+* * * * * * * * * * LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 NOPUNCT 0
+† † † † † † † † † † LINEEND ALLCAP NODIGIT 1 0 0 0 0 0 NOPUNCT 0

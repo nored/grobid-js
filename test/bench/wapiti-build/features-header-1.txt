@@ -1,0 +1,5 @@
+Noam noam N No Noa Noam m am oam Noam LINESTART INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT 0
+Shazeer shazeer S Sh Sha Shaz r er eer zeer LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+* * * * * * * * * * LINEEND ALLCAP NODIGIT 1 0 0 0 0 0 NOPUNCT 0
+Google google G Go Goo Goog e le gle ogle LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Brain brain B Br Bra Brai n in ain rain LINEEND INITCAP NODIGIT 0 1 1 0 0 0 NOPUNCT 0

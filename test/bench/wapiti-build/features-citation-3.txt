@@ -1,0 +1,12 @@
+Junyoung junyoung J Ju Jun Juny g ng ung oung LINESTART INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Chung chung C Ch Chu Chun g ng ung hung LINEIN INITCAP NODIGIT 0 0 1 1 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Çaglar çaglar Ç Ça Çag Çagl r ar lar glar LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Gülçehre gülçehre G Gü Gül Gülç e re hre ehre LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Kyunghyun kyunghyun K Ky Kyu Kyun n un yun hyun LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Cho cho C Ch Cho Cho o ho Cho Cho LINEIN INITCAP NODIGIT 0 0 0 1 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+and and a an and and d nd and and LINEIN NOCAPS NODIGIT 0 1 0 0 0 0 NOPUNCT 0
+Yoshua yoshua Y Yo Yos Yosh a ua hua shua LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Bengio bengio B Be Ben Beng o io gio ngio LINEEND INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0

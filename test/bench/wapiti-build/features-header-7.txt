@@ -1,0 +1,4 @@
+Illia illia I Il Ill Illi a ia lia llia LINESTART INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Polosukhin polosukhin P Po Pol Polo n in hin khin LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+* * * * * * * * * * LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 NOPUNCT 0
+‡ ‡ ‡ ‡ ‡ ‡ ‡ ‡ ‡ ‡ LINEEND ALLCAP NODIGIT 1 0 0 0 0 0 NOPUNCT 0

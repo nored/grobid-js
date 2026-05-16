@@ -1,0 +1,17 @@
+Jonas jonas J Jo Jon Jona s as nas onas LINESTART INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT 0
+Gehring gehring G Ge Geh Gehr g ng ing ring LINEIN INITCAP NODIGIT 0 0 0 1 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Michael michael M Mi Mic Mich l el ael hael LINEIN INITCAP NODIGIT 0 0 1 1 0 0 NOPUNCT 0
+Auli auli A Au Aul Auli i li uli Auli LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+David david D Da Dav Davi d id vid avid LINEIN INITCAP NODIGIT 0 0 1 1 0 0 NOPUNCT 0
+Grangier grangier G Gr Gra Gran r er ier gier LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Denis denis D De Den Deni s is nis enis LINEIN INITCAP NODIGIT 0 0 1 1 0 0 NOPUNCT 0
+Yarats yarats Y Ya Yar Yara s ts ats rats LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+and and a an and and d nd and and LINEIN NOCAPS NODIGIT 0 1 0 0 0 0 NOPUNCT 0
+Yann yann Y Ya Yan Yann n nn ann Yann LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+N n N N N N N N N N LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 NOPUNCT 0
+. . . . . . . . . . LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 DOT 0
+Dauphin dauphin D Da Dau Daup n in hin phin LINEEND INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0

@@ -1,0 +1,43 @@
+# Build / runtime
+node_modules/
+dist/
+coverage/
+.cache/
+.vitest-cache/
+
+# Python venvs for model conversion + training
+.venv/
+.venv-delft/
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Logs + ephemera
+*.log
+.env
+
+# Test outputs
+test-output/
+experiments/out/
+
+# Large fixtures (download via `grobid-js-download` or extract scripts)
+fixtures/blind-corpus/
+fixtures/external-corpus/
+fixtures/fresh-corpus/
+fixtures/models/
+fixtures/lexicon/
+fixtures/pdfalto/
+fixtures/corpus/
+fixtures/sample-arxiv.pdf
+fixtures/sample-arxiv.tei.xml
+
+# Training artifacts
+upstream/
+models-cache/
+tsconfig.tsbuildinfo

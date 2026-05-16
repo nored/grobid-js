@@ -1,0 +1,12 @@
+Jimmy jimmy J Ji Jim Jimm y my mmy immy LINESTART INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT 0
+Lei lei L Le Lei Lei i ei Lei Lei LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Ba ba B Ba Ba Ba a Ba Ba Ba LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Jamie jamie J Ja Jam Jami e ie mie amie LINEIN INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT 0
+Ryan ryan R Ry Rya Ryan n an yan Ryan LINEIN INITCAP NODIGIT 0 0 1 1 0 0 NOPUNCT 0
+Kiros kiros K Ki Kir Kiro s os ros iros LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+and and a an and and d nd and and LINEIN NOCAPS NODIGIT 0 1 0 0 0 0 NOPUNCT 0
+Geoffrey geoffrey G Ge Geo Geof y ey rey frey LINEIN INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT 0
+E e E E E E E E E E LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 NOPUNCT 0
+Hinton hinton H Hi Hin Hint n on ton nton LINEEND INITCAP NODIGIT 0 0 0 1 0 0 NOPUNCT 0

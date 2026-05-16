@@ -1,0 +1,17 @@
+# Python deps for `convert-bidlstm-crf-features.py`.
+# Recommended:  python3 -m venv .venv && source .venv/bin/activate && pip install -r scripts/requirements.txt
+#
+# Versions track DeLFT @ kermitt2/delft master, which targets tf 2.10/2.11 +
+# tensorflow_addons. On Apple Silicon, use tensorflow-macos.
+#
+# Notes:
+#   - We do NOT install tensorflow_addons here. The conversion script only
+#     READS the chain_kernel weight via h5py — it does not need the addons
+#     CRF layer to be importable.
+#   - tf2onnx requires tensorflow<=2.14 currently.
+h5py>=3.10
+numpy>=1.24,<2.0
+tensorflow>=2.11,<2.15 ; sys_platform != "darwin"
+tensorflow-macos>=2.11,<2.15 ; sys_platform == "darwin"
+tf2onnx>=1.16
+onnx>=1.15

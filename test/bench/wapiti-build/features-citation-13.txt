@@ -1,0 +1,15 @@
+Christian christian C Ch Chr Chri n an ian tian LINESTART INITCAP NODIGIT 0 1 1 1 0 0 NOPUNCT 0
+Szegedy szegedy S Sz Sze Szeg y dy edy gedy LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Vincent vincent V Vi Vin Vinc t nt ent cent LINEIN INITCAP NODIGIT 0 0 1 1 0 0 NOPUNCT 0
+Vanhoucke vanhoucke V Va Van Vanh e ke cke ucke LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Sergey sergey S Se Ser Serg y ey gey rgey LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Ioffe ioffe I Io Iof Ioff e fe ffe offe LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+Jonathon jonathon J Jo Jon Jona n on hon thon LINEIN INITCAP NODIGIT 0 0 1 0 0 0 NOPUNCT 0
+Shlens shlens S Sh Shl Shle s ns ens lens LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+, , , , , , , , , , LINEIN ALLCAP NODIGIT 1 0 0 0 0 0 COMMA 0
+and and a an and and d nd and and LINEIN NOCAPS NODIGIT 0 1 0 0 0 0 NOPUNCT 0
+Zbigniew zbigniew Z Zb Zbi Zbig w ew iew niew LINEIN INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
+Wojna wojna W Wo Woj Wojn a na jna ojna LINEEND INITCAP NODIGIT 0 0 0 0 0 0 NOPUNCT 0
