@@ -207,7 +207,7 @@ export const LEXICON_ASSETS: Record<string, AssetSpec> = {
   "names/VincentNgPeopleTitles.txt": {
     subpath: ["names", "VincentNgPeopleTitles.txt"],
     repoPath: "grobid-home/lexicon/names/VincentNgPeopleTitles.txt",
-    sha256: "6d5e5e28a38aa6fd7e93d40f94bbc541a729dba08e9df0b83c5ab1d2eb02a036",
+    sha256: "0cf2d37a82a1171152f9782899404ab9685eca91281962fd926ba3f9c124907c",
     size: 9425,
   },
   "names/suffix.txt": {
