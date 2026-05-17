@@ -1,6 +1,6 @@
 {
   "name": "grobid-js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Pure JS/WASM port of GROBID — scientific PDF → TEI-XML in Node and the browser, no Docker.",
   "type": "module",
   "private": false,
